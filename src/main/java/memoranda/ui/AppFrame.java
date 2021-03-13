@@ -334,7 +334,7 @@ public class AppFrame extends JFrame {
         jMenuFileUnpackPrj.setText(Local.getString("Unpack project") + "...");
         jMenuFileExportNote.setText(Local.getString("Export current note")
                 + "...");
-        jMenuFileImportNote.setText(Local.getString("Import one note")
+        jMenuFileImportNote.setText(Local.getString("Import 1 note")
                 + "...");
         jMenuFilePackPrj.setText(Local.getString("Pack project") + "...");
         jMenuFileMin.setText(Local.getString("Please close the window"));
