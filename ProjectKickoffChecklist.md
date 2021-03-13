@@ -1,6 +1,6 @@
 For each of you individually copy the checklist and check them of if it is done. This will be graded.
 
-<MyName>
+Isaiah Lathem
 
 - [x] Download and install Git
   
