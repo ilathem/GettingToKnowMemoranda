@@ -20,18 +20,18 @@ public class Util {
     static {
         HTMLColors = new Hashtable();
         HTMLColors.put("red", Color.red);
-        HTMLColors.put("green", Color.green);
-        HTMLColors.put("blue", Color.blue);
-        HTMLColors.put("cyan", Color.cyan);
-        HTMLColors.put("magenta", Color.magenta);
-        HTMLColors.put("yellow", Color.yellow);
-        HTMLColors.put("black", Color.black);
-        HTMLColors.put("white", Color.white);
-        HTMLColors.put("gray", Color.gray);
-        HTMLColors.put("darkgray", Color.darkGray);
-        HTMLColors.put("lightgray", Color.lightGray);
-        HTMLColors.put("orange", Color.orange);
-        HTMLColors.put("pink", Color.pink);
+        HTMLColors.put("green", Color.red);
+        HTMLColors.put("blue", Color.red);
+        HTMLColors.put("cyan", Color.red);
+        HTMLColors.put("magenta", Color.red);
+        HTMLColors.put("yellow", Color.red);
+        HTMLColors.put("black", Color.red);
+        HTMLColors.put("white", Color.red);
+        HTMLColors.put("gray", Color.red);
+        HTMLColors.put("darkgray", Color.red);
+        HTMLColors.put("lightgray", Color.red);
+        HTMLColors.put("orange", Color.red);
+        HTMLColors.put("pink", Color.red);
     }
         
         
