@@ -61,7 +61,7 @@ public class TaskPanel extends JPanel {
 	JMenuItem ppRemoveTask = new JMenuItem();
 	JMenuItem ppNewTask = new JMenuItem();
 	JMenuItem ppCompleteTask = new JMenuItem();
-	//JMenuItem ppSubTasks = new JMenuItem();
+	JMenuItem ppSubTasks = new JMenuItem();
 	//JMenuItem ppParentTask = new JMenuItem();
 	JMenuItem ppAddSubTask = new JMenuItem();
 	JMenuItem ppCalcTask = new JMenuItem();
